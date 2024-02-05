@@ -16,7 +16,7 @@ User Login, Create User,Exist User, Deposite Money, Money Withdraw, Send Money,P
 ```npm i newman-reporter-htmlextra(for html extra report)```
 
 # API Documentation
-For the Docomentation Click on the Given Link
+For the Documentation Click on the Given Link
 
 https://documenter.getpostman.com/view/31249220/2s9Yywde6V
 
